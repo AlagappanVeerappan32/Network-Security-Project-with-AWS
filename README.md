@@ -15,6 +15,9 @@ I've developed a web application that runs on an EC2 instance within a VPC. The 
   - `/store-products`: Accepts JSON data and adds products to the database.
   - `/list-products`: Retrieves a list of products from the database.
 
+ ![image](https://github.com/AlagappanVeerappan32/Network-Security-Project-with-AWS/assets/133504573/3382e51e-e0a1-48ce-af0a-3eabb704397b)
+
+
 ## Usage
 1. Clone this repository
 2. Configure your AWS credentials to interact with AWS services.
