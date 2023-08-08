@@ -16,7 +16,7 @@ I've developed a web application that runs on an EC2 instance within a VPC. The 
   - `/list-products`: Retrieves a list of products from the database.
 
 ## Usage
-1. Clone this repository: `git clone <repository_url>`
+1. Clone this repository
 2. Configure your AWS credentials to interact with AWS services.
 3. Deploy the web application to an EC2 instance within a VPC.
 4. Access the application via the assigned IP addresses.
